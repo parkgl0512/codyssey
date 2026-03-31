@@ -1,0 +1,2 @@
+2026-03-31 19:11:51 | Internal Temp: 21.91, External Temp: 6.83, Internal Humidity: 59.82, External Illuminance: 693.87, CO2: 0.0871, Oxygen: 5.18
+2026-03-31 19:11:56 | Internal Temp: 26.51, External Temp: 14.61, Internal Humidity: 52.33, External Illuminance: 648.72, CO2: 0.0593, Oxygen: 4.71
